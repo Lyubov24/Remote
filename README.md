@@ -10,5 +10,11 @@
 ```
 git remote add <имя репаозитория> < адрес репозитория>
 ```
-
+```
+int count = 0
+while(count<= n)
+{
+    count++;
+}
+```
 
